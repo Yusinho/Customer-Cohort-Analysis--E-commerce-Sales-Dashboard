@@ -142,7 +142,7 @@ cust = cust.merge(cust_orders, on='cust_id', how='left')
 
 ### Page 1 — Revenue & Customer Overview
 
-![Dashboard Page 1](<img width="1311" height="735" alt="page 1" src="https://github.com/user-attachments/assets/9ac29300-4ed4-4955-aedc-8242e4fa3754" />)
+<img width="1311" height="735" alt="page 1" src="https://github.com/user-attachments/assets/9ac29300-4ed4-4955-aedc-8242e4fa3754" />
 
 This page provides a top-level view of business performance, revenue distribution, and customer loyalty patterns.
 
@@ -198,7 +198,7 @@ Region · Payment Method · Year · Gender
 
 ### Page 2 — Order Performance & Payment Analysis
 
-![Dashboard Page 2](<img width="1313" height="736" alt="page 2" src="https://github.com/user-attachments/assets/81d7faf5-3b52-4023-bb6a-3e920d3a2d95" />)
+<img width="1313" height="736" alt="page 2" src="https://github.com/user-attachments/assets/81d7faf5-3b52-4023-bb6a-3e920d3a2d95" />
 
 This page examines how orders are paid for, fulfilled, and how revenue has grown year-over-year.
 
