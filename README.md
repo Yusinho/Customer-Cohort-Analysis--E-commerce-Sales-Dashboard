@@ -466,7 +466,7 @@ Customer-Cohort-Analysis/
 ## How to Use This Report
 
 1. Clone or download this repository
-2. Open `https://app.powerbi.com/view?r=eyJrIjoiMzUzYjgyYTQtNzdlNS00OTRkLWIzNzMtZGRmYTVlNzhmYzNkIiwidCI6ImU2M2U3ZmQyLTk4ZjktNDNhMS1iNmU4LTg5ZDE1M2Q1OTg5MCJ9` in **Power BI Desktop** (free from Microsoft)
+2. Open https://app.powerbi.com/view?r=eyJrIjoiMzUzYjgyYTQtNzdlNS00OTRkLWIzNzMtZGRmYTVlNzhmYzNkIiwidCI6ImU2M2U3ZmQyLTk4ZjktNDNhMS1iNmU4LTg5ZDE1M2Q1OTg5MCJ9 in **Power BI Desktop** (free from Microsoft)
 3. If prompted to refresh data, ensure `sales.csv` is in the same directory
 4. Use the slicers on each page to filter by **Region**, **Payment Method**, **Year**, and **Gender**
 5. Hover over any visual for detailed tooltips
