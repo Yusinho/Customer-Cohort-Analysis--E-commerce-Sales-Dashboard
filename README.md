@@ -198,7 +198,7 @@ Region · Payment Method · Year · Gender
 
 ### Page 2 — Order Performance & Payment Analysis
 
-<img width="1313" height="736" alt="page 2" src="https://github.com/user-attachments/assets/81d7faf5-3b52-4023-bb6a-3e920d3a2d95" />
+<img width="1313" height="739" alt="image" src="https://github.com/user-attachments/assets/4d270755-503e-4a84-8f47-e8ef9423295e" />
 
 This page examines how orders are paid for, fulfilled, and how revenue has grown year-over-year.
 
