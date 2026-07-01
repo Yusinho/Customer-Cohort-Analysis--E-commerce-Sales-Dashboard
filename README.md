@@ -19,6 +19,7 @@
 - [Recommendations](#recommendations)
 - [Project Structure](#project-structure)
 - [How to Use This Report](#how-to-use-this-report)
+- [Author](#-author)
 
 ---
 
@@ -471,6 +472,11 @@ Customer-Cohort-Analysis/
 4. Use the slicers on each page to filter by **Region**, **Payment Method**, **Year**, and **Gender**
 5. Hover over any visual for detailed tooltips
 6. Switch between pages using the tabs at the bottom of Power BI Desktop
+
+---
+## 👤 Author
+
+*(Yusuf Shotunde, LinkedIn: www.linkedin.com/in/yusuf-shotunde / GitHub: https://github.com/Yusinho/ / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )*
 
 ---
 
