@@ -1,4 +1,4 @@
-# Customer Cohort Analysis — E-commerce Sales Dashboard
+# Customer Cohort Analysis - E-commerce Sales Dashboard
 
 > A full end-to-end data analysis project built in **Power BI**, covering customer cohort segmentation, lifetime value, retention behaviour, revenue trends, and order performance across an e-commerce dataset of **286,392 transactions** spanning October 2020 to September 2021.
 
